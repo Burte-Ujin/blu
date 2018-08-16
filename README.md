@@ -1,0 +1,2 @@
+# blu
+landing page
